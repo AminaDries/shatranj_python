@@ -33,7 +33,7 @@
 **Requirements:** Python 3.10+, GTK 3 (for GUI)
 
 ```bash
-git clone https://github.com/SouhilaBENACHOUR/shatranj_python.git
+git clone https://github.com/AminaDries/shatranj_python.git
 cd shatranj_python
 
 python3 -m venv .venv
