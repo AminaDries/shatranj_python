@@ -141,6 +141,18 @@ source ~/.bashrc
 ```
 
 ---
+## My Contribution
+
+Group project (M1 Computer Science, Université de Bordeaux). My work:
+
+- **GUI (GTK)** — welcome screen, new game dialog, Persian/Indian visual theme (Cairo drawing + CSS)
+- **AI integration** — AI game mode selection, AI computation run in a separate thread to keep the interface responsive
+- **Internationalization** — English/French support (`i18n.py`)
+- **Error handling** — custom exception hierarchy
+
+**Technologies:** Python, GTK, Cairo, CSS, gettext, Git
+
+---
 
 ## Authors
 
